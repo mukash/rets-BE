@@ -1,0 +1,24 @@
+.container.signup_custom {
+  margin: -160px 0 0 200px;
+}
+.signup-form {
+  width: 100%;
+}
+
+input#name{
+  width: 50%;
+}
+
+/********************responsivness******************/
+
+
+/**********************registration*****************
+@media screen and (min-width: 480px) {
+  
+}
+*/
+
+
+.signin-form.reset {
+    margin-left: 28%;
+}

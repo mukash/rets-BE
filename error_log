@@ -1,0 +1,245 @@
+[21-Jan-2020 12:40:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[21-Jan-2020 12:42:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[21-Jan-2020 12:42:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/jhnerdco/public_html/rets/dashboard.php on line 9
+[21-Jan-2020 12:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:44:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:44:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:44:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:44:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:44:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:45:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[21-Jan-2020 12:45:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:7) in /home4/jhnerdco/public_html/rets/dashboard.php on line 8
+[22-Jan-2020 04:38:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 04:43:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:43:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:43:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:43:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:43:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:43:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:43:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:45:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:45:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:46:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:46:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:46:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:46:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:51:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home4/jhnerdco/public_html/rets/dashboard.php on line 7
+[22-Jan-2020 04:51:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home4/jhnerdco/public_html/rets/dashboard.php on line 7
+[22-Jan-2020 04:51:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:51:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:52:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 04:52:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 04:53:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 04:53:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:02:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 05:06:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 05:06:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:06:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:08:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:08:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:15:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:15:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:16:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jan-2020 05:25:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:25:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:26:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:26:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:26:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:26:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:26:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:27:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:27:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:27:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:27:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 10
+[22-Jan-2020 05:28:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:28:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:28:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:28:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:28:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:28:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:29:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:31:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/index.php on line 5
+[22-Jan-2020 05:31:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/index.php:1) in /home4/jhnerdco/public_html/rets/index.php on line 9
+[22-Jan-2020 05:34:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:34:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:46:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:46:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:50:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/dashboard.php on line 5
+[22-Jan-2020 05:50:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 05:51:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 06:07:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 06:07:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jhnerdco/public_html/rets/dashboard.php:1) in /home4/jhnerdco/public_html/rets/dashboard.php on line 11
+[22-Jan-2020 06:19:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 06:19:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 06:28:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 06:28:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 06:51:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/validate_login.php on line 10
+[22-Jan-2020 06:51:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/validate_login.php on line 10
+[22-Jan-2020 06:51:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/validate_login.php on line 10
+[22-Jan-2020 06:52:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/validate_login.php on line 10
+[22-Jan-2020 06:52:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/validate_login.php on line 10
+[22-Jan-2020 06:55:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/index.php on line 4
+[22-Jan-2020 06:55:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/index.php on line 4
+[22-Jan-2020 06:55:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/index.php on line 4
+[22-Jan-2020 06:58:02 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/jhnerdco/public_html/rets/index.php on line 3
+[22-Jan-2020 06:58:28 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/jhnerdco/public_html/rets/index.php on line 3
+[22-Jan-2020 07:06:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 07:06:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 07:07:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jan-2020 10:13:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jan-2020 12:24:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:24:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:24:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 12:33:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jan-2020 12:58:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 12:58:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[22-Jan-2020 13:06:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jan-2020 13:19:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[22-Jan-2020 13:19:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[23-Jan-2020 04:35:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/db_connection.php on line 2
+[23-Jan-2020 04:35:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[23-Jan-2020 04:42:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[23-Jan-2020 04:42:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[23-Jan-2020 06:32:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[23-Jan-2020 08:25:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[23-Jan-2020 08:51:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[23-Jan-2020 08:51:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/jobs.php on line 8
+[23-Jan-2020 11:01:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[23-Jan-2020 13:36:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[23-Jan-2020 13:37:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[23-Jan-2020 13:38:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 06:07:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 06:07:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 06:07:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 06:07:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 06:07:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 06:07:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 06:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 06:07:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 06:49:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[24-Jan-2020 07:57:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:56:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:56:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:57:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:57:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:58:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:58:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:59:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 09:59:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 09:59:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:00:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:00:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 10:00:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:00:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:00:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 10:01:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:01:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:19:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 10:19:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:19:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/remove_emp.php on line 4
+[24-Jan-2020 10:19:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[24-Jan-2020 10:31:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[28-Jan-2020 04:47:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[28-Jan-2020 10:48:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[29-Jan-2020 08:48:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[30-Jan-2020 05:37:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[30-Jan-2020 06:57:34 UTC] PHP Warning:  move_uploaded_file(uploads/tet icon.png): failed to open stream: No such file or directory in /home4/jhnerdco/public_html/rets/validate_regemp.php on line 55
+[30-Jan-2020 06:57:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDq9ptI' to 'uploads/tet icon.png' in /home4/jhnerdco/public_html/rets/validate_regemp.php on line 55
+[30-Jan-2020 06:58:32 UTC] PHP Warning:  move_uploaded_file(uploads/tet icon.png): failed to open stream: No such file or directory in /home4/jhnerdco/public_html/rets/validate_regemp.php on line 55
+[30-Jan-2020 06:58:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbpiqag' to 'uploads/tet icon.png' in /home4/jhnerdco/public_html/rets/validate_regemp.php on line 55
+[30-Jan-2020 07:38:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[09-Feb-2020 10:11:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/jhnerdco/public_html/rets/tables.php on line 6
+[04-Mar-2020 04:05:22 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[04-Mar-2020 23:53:55 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[13-Mar-2020 11:51:28 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[18-Mar-2020 08:33:25 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[18-Mar-2020 11:36:11 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[18-Mar-2020 12:07:21 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[18-Mar-2020 12:13:21 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[21-Mar-2020 09:09:41 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Mar-2020 05:32:49 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[24-Mar-2020 02:48:17 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[28-Mar-2020 05:41:29 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[28-Mar-2020 06:09:31 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[29-Mar-2020 04:37:05 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[29-Mar-2020 06:14:38 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[29-Mar-2020 06:58:32 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[30-Mar-2020 01:28:42 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[31-Mar-2020 09:37:56 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[01-Apr-2020 15:39:50 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[01-Apr-2020 15:40:05 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[02-Apr-2020 08:56:09 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[06-Apr-2020 04:49:37 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[16-Apr-2020 06:03:29 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[17-Apr-2020 03:09:58 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:07:49 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:08:00 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:08:16 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[17-Apr-2020 05:08:17 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:09:09 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:11:09 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:15:03 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:15:13 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 05:18:25 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 07:22:13 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 07:24:24 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[17-Apr-2020 07:24:24 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[17-Apr-2020 07:24:33 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[21-Apr-2020 01:40:50 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[25-Apr-2020 02:26:02 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[26-Apr-2020 00:58:44 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[26-Apr-2020 02:03:26 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[26-Apr-2020 04:02:31 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Apr-2020 02:05:49 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Apr-2020 04:58:39 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Apr-2020 11:36:12 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Apr-2020 12:55:44 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[28-Apr-2020 11:41:28 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[30-Apr-2020 08:06:17 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[06-May-2020 04:14:16 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[07-May-2020 05:23:57 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[15-May-2020 03:45:50 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[15-May-2020 03:45:55 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[15-May-2020 03:45:59 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[15-May-2020 03:46:06 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[15-May-2020 03:46:47 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1809
+[21-May-2020 04:09:06 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[21-Jun-2020 00:35:08 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[22-Jun-2020 23:14:45 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[26-Jun-2020 06:45:43 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[26-Jun-2020 10:21:38 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Jun-2020 01:25:21 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
+[27-Jun-2020 05:12:45 America/Boise] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/jhnerdco/public_html/rets/adminer.php on line 1422
