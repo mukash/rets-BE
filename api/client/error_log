@@ -362,3 +362,7 @@
 [28-Jun-2020 09:53:20 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/jhnerdco/public_html/rets/api/client/jobcreate.php on line 66
 [28-Jun-2020 10:03:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/jhnerdco/public_html/rets/api/client/jobcreate.php on line 66
 [28-Jun-2020 10:05:16 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/jhnerdco/public_html/rets/api/client/jobcreate.php on line 66
+[14-Jul-2020 01:12:46 America/Boise] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ',' or ';' in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 19
+[14-Jul-2020 01:17:47 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 11
+[14-Jul-2020 01:20:33 America/Boise] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 13
+[14-Jul-2020 11:46:59 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 8

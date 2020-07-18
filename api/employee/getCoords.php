@@ -15,6 +15,5 @@
 		$query1 = mysqli_query($conn, $sql1);
 		$fetch_coords = mysqli_fetch_assoc($query1);
 		echo json_encode($fetch_coords);
-		
 	}
 ?>

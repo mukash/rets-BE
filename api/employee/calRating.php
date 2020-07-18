@@ -31,10 +31,22 @@
 		else {
 			$count=count($response_data);
 			$avg=mysqli_fetch_row($query1);
-			 $rating=implode($avg);
+			$rating=implode($avg);
 			$sql3 = "UPDATE employee SET rating='$rating', job_assigned='$count' WHERE emid='$fetch_id'";
+			$sql4="SELECT jid from jobs where emp_id='$fetch_id' AND status='completed'";
+			$query4 = mysqli_query($conn, $sql4);
+			$sql5="SELECT rating from jobs where emp_id='$fetch_id' AND status='completed'";
+			$query5 = mysqli_query($conn, $sql5);
+			//print_r($query4);
 			$query3 = mysqli_query($conn, $sql3);
-			echo json_encode([$count,$avg]);
+			$response=array();
+			while($lables = mysqli_fetch_assoc($query4)) {		
+				$lable[] = $lables['jid'];
+			}
+			while($rate = mysqli_fetch_assoc($query5)) {		
+				$ratings[] = intval($rate['rating']);
+			}
+			echo json_encode(['count'=>$count,'average'=>$avg,'lable'=>$lable,'rating'=>$ratings]);
 		};
 		
 	}
