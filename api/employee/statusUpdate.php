@@ -17,7 +17,7 @@
 	 $coords1 = "SELECT * FROM tracking WHERE emp_id = '$fetch_emp_id'";
 	 $query_coords1 = mysqli_query($conn, $coords1);
 	 $fetch_data1 = mysqli_fetch_assoc($query_coords1);
-	 
+	
 	 $fetch_emp_long = $fetch_data1['longitude'];
 	 $fetch_emp_lat = $fetch_data1['latitude'];
 	/**********************/

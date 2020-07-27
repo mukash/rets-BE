@@ -366,3 +366,32 @@
 [14-Jul-2020 01:17:47 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 11
 [14-Jul-2020 01:20:33 America/Boise] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 13
 [14-Jul-2020 11:46:59 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/getEmpCoords.php on line 8
+[23-Jul-2020 04:01:42 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 9
+[23-Jul-2020 04:01:42 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 10
+[23-Jul-2020 04:02:00 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 9
+[23-Jul-2020 04:02:16 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 9
+[23-Jul-2020 04:02:59 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 10
+[23-Jul-2020 04:03:20 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 9
+[23-Jul-2020 04:03:25 America/Boise] PHP Notice:  Undefined index: jid in /home4/jhnerdco/public_html/rets/api/client/jobdetail.php on line 9
+[23-Jul-2020 04:06:28 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:06:36 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:07:05 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:07:36 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:07:51 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:13:46 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:16:15 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:16:22 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:16:41 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:16:45 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:17:13 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:17:17 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:17:38 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:17:41 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:18:08 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[23-Jul-2020 04:18:39 America/Boise] PHP Parse error:  syntax error, unexpected ''=>$count,'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/jhnerdco/public_html/rets/api/client/profiledata.php on line 40
+[24-Jul-2020 05:19:23 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9
+[24-Jul-2020 05:19:44 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9
+[24-Jul-2020 05:20:47 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9
+[24-Jul-2020 05:20:49 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9
+[24-Jul-2020 05:21:05 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9
+[24-Jul-2020 05:24:48 America/Boise] PHP Notice:  Undefined index: cid in /home4/jhnerdco/public_html/rets/api/client/jobview.php on line 9

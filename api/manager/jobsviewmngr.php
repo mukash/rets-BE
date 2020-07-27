@@ -8,7 +8,7 @@
 
 
 	$response_data = array();
-	$sql = "SELECT jobs.*,client.cid,client.name,client.ph_number,employee.empname,employee.emp_number FROM jobs INNER JOIN client ON client.cid=jobs.client_id INNER JOIN employee ON employee.emid=jobs.emp_id WHERE emp_id>1 AND status='Pending'";
+	$sql = "SELECT jobs.*,client.cid,client.name,client.ph_number,employee.empname,employee.emp_number FROM jobs INNER JOIN client ON client.cid=jobs.client_id INNER JOIN employee ON employee.emid=jobs.emp_id WHERE emp_id>1";
     $query = mysqli_query($conn, $sql);
     while($row = mysqli_fetch_assoc($query) ) {		
 		$response_data[] = $row;
